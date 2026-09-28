@@ -1,0 +1,22 @@
+[
+  {
+    "id": "who",
+    "name": "World Health Organization (WHO)",
+    "organization": "World Health Organization",
+    "website_url": "https://www.who.int/data/gho",
+    "license_name": "WHO Open Data Policy (CC BY-NC-SA 3.0 IGO / WHO Terms of Use)",
+    "license_url": "https://www.who.int/about/policies/publishing/data-policy/terms-and-conditions",
+    "terms_summary": "WHO open health data is made available for public health, research, and non-commercial educational use. Source must be explicitly cited.",
+    "attribution_requirement": "Source: World Health Organization, Global Health Observatory (GHO)."
+  },
+  {
+    "id": "world_bank",
+    "name": "World Bank Open Data",
+    "organization": "The World Bank Group",
+    "website_url": "https://data.worldbank.org",
+    "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "license_url": "https://datacatalog.worldbank.org/public-licenses#cc-by",
+    "terms_summary": "You are free to copy, distribute, adapt, and transmit the data for commercial and non-commercial purposes with attribution.",
+    "attribution_requirement": "Source: World Bank, World Development Indicators & Health Nutrition and Population Statistics."
+  }
+]

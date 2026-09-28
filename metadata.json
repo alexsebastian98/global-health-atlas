@@ -1,0 +1,6 @@
+{
+  "name": "Global Health Atlas",
+  "description": "An interactive visual atlas of the health of the planet, exploring global public-health data geographically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1682 @@
+[
+  {
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "canonical_name": "Afghanistan",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "ALB",
+    "name": "Albania",
+    "canonical_name": "Albania",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "DZA",
+    "name": "Algeria",
+    "canonical_name": "Algeria",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "ASM",
+    "name": "American Samoa",
+    "canonical_name": "American Samoa",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "AND",
+    "name": "Andorra",
+    "canonical_name": "Andorra",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "AGO",
+    "name": "Angola",
+    "canonical_name": "Angola",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "AIA",
+    "name": "Anguilla",
+    "canonical_name": "Anguilla",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "ATA",
+    "name": "Antarctica",
+    "canonical_name": "Antarctica",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda",
+    "canonical_name": "Antigua and Barbuda",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "ARG",
+    "name": "Argentina",
+    "canonical_name": "Argentina",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "ARM",
+    "name": "Armenia",
+    "canonical_name": "Armenia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "ABW",
+    "name": "Aruba",
+    "canonical_name": "Aruba",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "canonical_name": "Australia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "AUT",
+    "name": "Austria",
+    "canonical_name": "Austria",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "canonical_name": "Azerbaijan",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "BHS",
+    "name": "Bahamas",
+    "canonical_name": "Bahamas",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "canonical_name": "Bahrain",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "canonical_name": "Bangladesh",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "BRB",
+    "name": "Barbados",
+    "canonical_name": "Barbados",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BLR",
+    "name": "Belarus",
+    "canonical_name": "Belarus",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "BEL",
+    "name": "Belgium",
+    "canonical_name": "Belgium",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "BLZ",
+    "name": "Belize",
+    "canonical_name": "Belize",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BEN",
+    "name": "Benin",
+    "canonical_name": "Benin",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "BMU",
+    "name": "Bermuda",
+    "canonical_name": "Bermuda",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "canonical_name": "Bhutan",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "BOL",
+    "name": "Bolivia (Plurinational State of)",
+    "canonical_name": "Bolivia (Plurinational State of)",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BES",
+    "name": "Bonaire, Saint Eustatius and Saba",
+    "canonical_name": "Bonaire, Saint Eustatius and Saba",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "canonical_name": "Bosnia and Herzegovina",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "BWA",
+    "name": "Botswana",
+    "canonical_name": "Botswana",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "BRA",
+    "name": "Brazil",
+    "canonical_name": "Brazil",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "VGB",
+    "name": "British Virgin Islands",
+    "canonical_name": "British Virgin Islands",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "BRN",
+    "name": "Brunei Darussalam",
+    "canonical_name": "Brunei Darussalam",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "canonical_name": "Bulgaria",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "canonical_name": "Burkina Faso",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "BDI",
+    "name": "Burundi",
+    "canonical_name": "Burundi",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "CPV",
+    "name": "Cabo Verde",
+    "canonical_name": "Cabo Verde",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "canonical_name": "Cambodia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "canonical_name": "Cameroon",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "canonical_name": "Canada",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "CYM",
+    "name": "Cayman Islands",
+    "canonical_name": "Cayman Islands",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "canonical_name": "Central African Republic",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "TCD",
+    "name": "Chad",
+    "canonical_name": "Chad",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "CHI",
+    "name": "Channel islands",
+    "canonical_name": "Channel islands",
+    "who_region_code": null,
+    "who_region_name": null
+  },
+  {
+    "iso3": "CHL",
+    "name": "Chile",
+    "canonical_name": "Chile",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "CHN",
+    "name": "China",
+    "canonical_name": "China",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "HKG",
+    "name": "China, Hong Kong Special Administrative Region",
+    "canonical_name": "China, Hong Kong Special Administrative Region",
+    "who_region_code": null,
+    "who_region_name": null
+  },
+  {
+    "iso3": "MAC",
+    "name": "China, Macao Special Administrative Region",
+    "canonical_name": "China, Macao Special Administrative Region",
+    "who_region_code": null,
+    "who_region_name": null
+  },
+  {
+    "iso3": "COL",
+    "name": "Colombia",
+    "canonical_name": "Colombia",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "COM",
+    "name": "Comoros",
+    "canonical_name": "Comoros",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "COG",
+    "name": "Congo",
+    "canonical_name": "Congo",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "COK",
+    "name": "Cook Islands",
+    "canonical_name": "Cook Islands",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "canonical_name": "Costa Rica",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "CIV",
+    "name": "Cote d'Ivoire",
+    "canonical_name": "Cote d'Ivoire",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "HRV",
+    "name": "Croatia",
+    "canonical_name": "Croatia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "CUB",
+    "name": "Cuba",
+    "canonical_name": "Cuba",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "CUW",
+    "name": "Cura\u00e7ao",
+    "canonical_name": "Cura\u00e7ao",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "canonical_name": "Cyprus",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "CZE",
+    "name": "Czechia",
+    "canonical_name": "Czechia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "PRK",
+    "name": "Democratic People's Republic of Korea",
+    "canonical_name": "Democratic People's Republic of Korea",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "COD",
+    "name": "Democratic Republic of the Congo",
+    "canonical_name": "Democratic Republic of the Congo",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "DNK",
+    "name": "Denmark",
+    "canonical_name": "Denmark",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "canonical_name": "Djibouti",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "DMA",
+    "name": "Dominica",
+    "canonical_name": "Dominica",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "canonical_name": "Dominican Republic",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "canonical_name": "Ecuador",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "EGY",
+    "name": "Egypt",
+    "canonical_name": "Egypt",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "canonical_name": "El Salvador",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "canonical_name": "Equatorial Guinea",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "canonical_name": "Eritrea",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "EST",
+    "name": "Estonia",
+    "canonical_name": "Estonia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "SWZ",
+    "name": "Eswatini",
+    "canonical_name": "Eswatini",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "canonical_name": "Ethiopia",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "FLK",
+    "name": "Falkland Islands (Malvinas)",
+    "canonical_name": "Falkland Islands (Malvinas)",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "FRO",
+    "name": "Faroe Islands",
+    "canonical_name": "Faroe Islands",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "FJI",
+    "name": "Fiji",
+    "canonical_name": "Fiji",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "FIN",
+    "name": "Finland",
+    "canonical_name": "Finland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "ATF",
+    "name": "Fr. S. Antarctic Lands",
+    "canonical_name": "Fr. S. Antarctic Lands",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "FRA",
+    "name": "France",
+    "canonical_name": "France",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "GUF",
+    "name": "French Guiana",
+    "canonical_name": "French Guiana",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "PYF",
+    "name": "French Polynesia",
+    "canonical_name": "French Polynesia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "GAB",
+    "name": "Gabon",
+    "canonical_name": "Gabon",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "GMB",
+    "name": "Gambia",
+    "canonical_name": "Gambia",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "GEO",
+    "name": "Georgia",
+    "canonical_name": "Georgia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "canonical_name": "Germany",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "canonical_name": "Ghana",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "GIB",
+    "name": "Gibraltar",
+    "canonical_name": "Gibraltar",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "GRC",
+    "name": "Greece",
+    "canonical_name": "Greece",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "GRL",
+    "name": "Greenland",
+    "canonical_name": "Greenland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "GRD",
+    "name": "Grenada",
+    "canonical_name": "Grenada",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "GLP",
+    "name": "Guadeloupe",
+    "canonical_name": "Guadeloupe",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "GUM",
+    "name": "Guam",
+    "canonical_name": "Guam",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "canonical_name": "Guatemala",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "GIN",
+    "name": "Guinea",
+    "canonical_name": "Guinea",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "canonical_name": "Guinea-Bissau",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "GUY",
+    "name": "Guyana",
+    "canonical_name": "Guyana",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "HTI",
+    "name": "Haiti",
+    "canonical_name": "Haiti",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "HND",
+    "name": "Honduras",
+    "canonical_name": "Honduras",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "HUN",
+    "name": "Hungary",
+    "canonical_name": "Hungary",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "ISL",
+    "name": "Iceland",
+    "canonical_name": "Iceland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "IND",
+    "name": "India",
+    "canonical_name": "India",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "canonical_name": "Indonesia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "IRN",
+    "name": "Iran (Islamic Republic of)",
+    "canonical_name": "Iran (Islamic Republic of)",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "canonical_name": "Iraq",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "IRL",
+    "name": "Ireland",
+    "canonical_name": "Ireland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "IMN",
+    "name": "Isle of Man",
+    "canonical_name": "Isle of Man",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "ISR",
+    "name": "Israel",
+    "canonical_name": "Israel",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "ITA",
+    "name": "Italy",
+    "canonical_name": "Italy",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "canonical_name": "Jamaica",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "JPN",
+    "name": "Japan",
+    "canonical_name": "Japan",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "JOR",
+    "name": "Jordan",
+    "canonical_name": "Jordan",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "canonical_name": "Kazakhstan",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "canonical_name": "Kenya",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "KIR",
+    "name": "Kiribati",
+    "canonical_name": "Kiribati",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "KOS",
+    "name": "Kosovo",
+    "canonical_name": "Kosovo",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "XKX",
+    "name": "Kosovo (in accordance with UN Security Council resolution 1244 (1999))",
+    "canonical_name": "Kosovo (in accordance with UN Security Council resolution 1244 (1999))",
+    "who_region_code": null,
+    "who_region_name": null
+  },
+  {
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "canonical_name": "Kuwait",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "KGZ",
+    "name": "Kyrgyzstan",
+    "canonical_name": "Kyrgyzstan",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "LAO",
+    "name": "Lao People's Democratic Republic",
+    "canonical_name": "Lao People's Democratic Republic",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "LVA",
+    "name": "Latvia",
+    "canonical_name": "Latvia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "canonical_name": "Lebanon",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "canonical_name": "Lesotho",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "LBR",
+    "name": "Liberia",
+    "canonical_name": "Liberia",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "LBY",
+    "name": "Libya",
+    "canonical_name": "Libya",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "canonical_name": "Liechtenstein",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "canonical_name": "Lithuania",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "canonical_name": "Luxembourg",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "MDG",
+    "name": "Madagascar",
+    "canonical_name": "Madagascar",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MWI",
+    "name": "Malawi",
+    "canonical_name": "Malawi",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "canonical_name": "Malaysia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "MDV",
+    "name": "Maldives",
+    "canonical_name": "Maldives",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "MLI",
+    "name": "Mali",
+    "canonical_name": "Mali",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MLT",
+    "name": "Malta",
+    "canonical_name": "Malta",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "canonical_name": "Marshall Islands",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "MTQ",
+    "name": "Martinique",
+    "canonical_name": "Martinique",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "canonical_name": "Mauritania",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "canonical_name": "Mauritius",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MYT",
+    "name": "Mayotte",
+    "canonical_name": "Mayotte",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MEX",
+    "name": "Mexico",
+    "canonical_name": "Mexico",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "FSM",
+    "name": "Micronesia (Federated States of)",
+    "canonical_name": "Micronesia (Federated States of)",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "MCO",
+    "name": "Monaco",
+    "canonical_name": "Monaco",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "canonical_name": "Mongolia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "canonical_name": "Montenegro",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "MSR",
+    "name": "Montserrat",
+    "canonical_name": "Montserrat",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "canonical_name": "Morocco",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "canonical_name": "Mozambique",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "canonical_name": "Myanmar",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "CYN",
+    "name": "N. Cyprus",
+    "canonical_name": "N. Cyprus",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "NAM",
+    "name": "Namibia",
+    "canonical_name": "Namibia",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "NRU",
+    "name": "Naoero",
+    "canonical_name": "Naoero",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "NPL",
+    "name": "Nepal",
+    "canonical_name": "Nepal",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "NLD",
+    "name": "Netherlands (Kingdom of the)",
+    "canonical_name": "Netherlands (Kingdom of the)",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "NCL",
+    "name": "New Caledonia",
+    "canonical_name": "New Caledonia",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "canonical_name": "New Zealand",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "canonical_name": "Nicaragua",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "NER",
+    "name": "Niger",
+    "canonical_name": "Niger",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "canonical_name": "Nigeria",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "NIU",
+    "name": "Niue",
+    "canonical_name": "Niue",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "canonical_name": "North Macedonia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "MNP",
+    "name": "Northern Mariana Islands",
+    "canonical_name": "Northern Mariana Islands",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "NOR",
+    "name": "Norway",
+    "canonical_name": "Norway",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "OMN",
+    "name": "Oman",
+    "canonical_name": "Oman",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "canonical_name": "Pakistan",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "PLW",
+    "name": "Palau",
+    "canonical_name": "Palau",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "PAN",
+    "name": "Panama",
+    "canonical_name": "Panama",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "canonical_name": "Papua New Guinea",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "canonical_name": "Paraguay",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "PER",
+    "name": "Peru",
+    "canonical_name": "Peru",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
+    "canonical_name": "Philippines",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "POL",
+    "name": "Poland",
+    "canonical_name": "Poland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "PRT",
+    "name": "Portugal",
+    "canonical_name": "Portugal",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "PRS",
+    "name": "Pristina",
+    "canonical_name": "Pristina",
+    "who_region_code": null,
+    "who_region_name": null
+  },
+  {
+    "iso3": "PRI",
+    "name": "Puerto Rico",
+    "canonical_name": "Puerto Rico",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "QAT",
+    "name": "Qatar",
+    "canonical_name": "Qatar",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "KOR",
+    "name": "Republic of Korea",
+    "canonical_name": "Republic of Korea",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "MDA",
+    "name": "Republic of Moldova",
+    "canonical_name": "Republic of Moldova",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "REU",
+    "name": "Reunion",
+    "canonical_name": "Reunion",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "ROU",
+    "name": "Romania",
+    "canonical_name": "Romania",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "RUS",
+    "name": "Russian Federation",
+    "canonical_name": "Russian Federation",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "canonical_name": "Rwanda",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "canonical_name": "Saint Kitts and Nevis",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "LCA",
+    "name": "Saint Lucia",
+    "canonical_name": "Saint Lucia",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "canonical_name": "Saint Pierre and Miquelon",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "canonical_name": "Saint Vincent and the Grenadines",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "WSM",
+    "name": "Samoa",
+    "canonical_name": "Samoa",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "SMR",
+    "name": "San Marino",
+    "canonical_name": "San Marino",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "STP",
+    "name": "Sao Tome and Principe",
+    "canonical_name": "Sao Tome and Principe",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "canonical_name": "Saudi Arabia",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "canonical_name": "Senegal",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "SRB",
+    "name": "Serbia",
+    "canonical_name": "Serbia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "canonical_name": "Seychelles",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "canonical_name": "Sierra Leone",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "SGP",
+    "name": "Singapore",
+    "canonical_name": "Singapore",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "canonical_name": "Sint Maarten (Dutch part)",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "canonical_name": "Slovakia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "canonical_name": "Slovenia",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "canonical_name": "Solomon Islands",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "SOM",
+    "name": "Somalia",
+    "canonical_name": "Somalia",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "SOL",
+    "name": "Somaliland",
+    "canonical_name": "Somaliland",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "canonical_name": "South Africa",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "SSD",
+    "name": "South Sudan",
+    "canonical_name": "South Sudan",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "ESP",
+    "name": "Spain",
+    "canonical_name": "Spain",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "canonical_name": "Sri Lanka",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "SHN",
+    "name": "St Helena, Ascension and Tristan da Cunha",
+    "canonical_name": "St Helena, Ascension and Tristan da Cunha",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "SDN",
+    "name": "Sudan",
+    "canonical_name": "Sudan",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "SUR",
+    "name": "Suriname",
+    "canonical_name": "Suriname",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "canonical_name": "Sweden",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "canonical_name": "Switzerland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "SYR",
+    "name": "Syrian Arab Republic",
+    "canonical_name": "Syrian Arab Republic",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "canonical_name": "Taiwan",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "canonical_name": "Tajikistan",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "THA",
+    "name": "Thailand",
+    "canonical_name": "Thailand",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "ME1",
+    "name": "The former state union Serbia and Montenegro",
+    "canonical_name": "The former state union Serbia and Montenegro",
+    "who_region_code": null,
+    "who_region_name": null
+  },
+  {
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "canonical_name": "Timor-Leste",
+    "who_region_code": "SEAR",
+    "who_region_name": "South-East Asia"
+  },
+  {
+    "iso3": "TGO",
+    "name": "Togo",
+    "canonical_name": "Togo",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "TKL",
+    "name": "Tokelau",
+    "canonical_name": "Tokelau",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "TON",
+    "name": "Tonga",
+    "canonical_name": "Tonga",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "canonical_name": "Trinidad and Tobago",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "canonical_name": "Tunisia",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "canonical_name": "Turkmenistan",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "TCA",
+    "name": "Turks and Caicos Islands",
+    "canonical_name": "Turks and Caicos Islands",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "canonical_name": "Tuvalu",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "TUR",
+    "name": "T\u00fcrkiye",
+    "canonical_name": "T\u00fcrkiye",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "UGA",
+    "name": "Uganda",
+    "canonical_name": "Uganda",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "canonical_name": "Ukraine",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "canonical_name": "United Arab Emirates",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "canonical_name": "United Kingdom of Great Britain and Northern Ireland",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "TZA",
+    "name": "United Republic of Tanzania",
+    "canonical_name": "United Republic of Tanzania",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "USA",
+    "name": "United States of America",
+    "canonical_name": "United States of America",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "canonical_name": "Uruguay",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "canonical_name": "Uzbekistan",
+    "who_region_code": "EUR",
+    "who_region_name": "Europe"
+  },
+  {
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "canonical_name": "Vanuatu",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "VEN",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "canonical_name": "Venezuela (Bolivarian Republic of)",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "VNM",
+    "name": "Viet Nam",
+    "canonical_name": "Viet Nam",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "VIR",
+    "name": "Virgin Islands (USA)",
+    "canonical_name": "Virgin Islands (USA)",
+    "who_region_code": "AMR",
+    "who_region_name": "Americas"
+  },
+  {
+    "iso3": "ESH",
+    "name": "W. Sahara",
+    "canonical_name": "W. Sahara",
+    "who_region_code": "OTHER",
+    "who_region_name": "Other"
+  },
+  {
+    "iso3": "WLF",
+    "name": "Wallis and Futuna Islands",
+    "canonical_name": "Wallis and Futuna Islands",
+    "who_region_code": "WPR",
+    "who_region_name": "Western Pacific"
+  },
+  {
+    "iso3": "YEM",
+    "name": "Yemen",
+    "canonical_name": "Yemen",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  },
+  {
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "canonical_name": "Zambia",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "canonical_name": "Zimbabwe",
+    "who_region_code": "AFR",
+    "who_region_name": "Africa"
+  },
+  {
+    "iso3": "PSE",
+    "name": "occupied Palestinian territory, including east Jerusalem",
+    "canonical_name": "occupied Palestinian territory, including east Jerusalem",
+    "who_region_code": "EMR",
+    "who_region_name": "Eastern Mediterranean"
+  }
+]
